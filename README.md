@@ -21,4 +21,6 @@ stupid discord badge
 
 ## Undergraduate EN
 * This program is not allowed to be used for commercial purposes. You can upset and share the code, but it is prohibited to use it for commercial purposes.
+![image](https://user-images.githubusercontent.com/87244834/204269114-05ef3fc6-16c8-4f79-b3c6-cf74697dbbba.png)
+![image](https://user-images.githubusercontent.com/87244834/204269170-f28e1032-1aa8-4fca-9b7e-ca8a9f6f6473.png)
 
