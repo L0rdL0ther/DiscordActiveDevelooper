@@ -1,0 +1,16 @@
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\BotSettings.exe.config
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\BotSettings.exe
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\BotSettings.pdb
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.AssemblyReference.cache
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.SuggestedBindingRedirects.cache
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.BotSettings.resources
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.Properties.Resources.resources
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.GenerateResource.cache
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.CoreCompileInputs.cache
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.CopyComplete
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.exe
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.pdb
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\game1\source\repos\DiscordActiveDevelooper\BotSettings\obj\Debug\BotSettings.csproj.Fody.CopyLocal.cache
